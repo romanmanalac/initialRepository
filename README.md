@@ -1,2 +1,3 @@
 # initialRepository
-Initial repository in GitHub
+Date: 5/11/2016
+My initial repository created in GitHub
